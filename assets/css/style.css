@@ -1,8 +1,3 @@
-/*==================================
-* Author        : "ThemeSine"
-* Template Name :  Browny  HTML Template
-* Version       : 1.0
-==================================== */
 
 /*==================================
 font-family: 'Poppins', sans-serif;
@@ -190,7 +185,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     align-items: center;
     justify-content: center;
     position:relative;
-    background:url(../images/about/welcome-banner.jpg)no-repeat;
+    /* background:url(../images/about/welcome-banner.jpg)no-repeat;  */
     background-size:cover;
     background-position: center;
     height:890px;
@@ -200,14 +195,14 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
     content: " ";
     top:0;
     left:0;
-    background:rgba(31,44,108,.65);
+    background:#fdfcfcf1;
     width:100%;
     height:100%;
 }
 
 /*.header-text-area*/
 .header-text h2 {
-    color: #fff;
+    color: #040000;
     font-size: 54px;
     font-weight: 700;
     text-transform: uppercase;
@@ -215,7 +210,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 }
 .header-text h2 span {color: #d92cf9;}
 .header-text p {
-    color: #fff;
+    color: #080000;
     font-size: 20px;
     font-weight: 300;
     text-transform: uppercase;
